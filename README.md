@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Saahil Patel, a student at Rutgers University, pursuing a Bachelor's degree in Computer Science and Statistics.
 
+Check me out at https://saahilp.me !!!
+
 Outside of class, I'm currently:
 
 - 👨🏽‍💻 Participating in a COOP at UPS as an Web Applications and Messaging Systems intern on the Windows Web Services team
