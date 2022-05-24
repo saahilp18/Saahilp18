@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 I'm Saahil Patel, a student at Rutgers University, pursuing a Bachelor's degree in Computer Science and Statistics.
 
 Check me out at https://saahilp.me !!!
@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=avedmala&color=brightgreen)
