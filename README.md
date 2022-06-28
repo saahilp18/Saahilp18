@@ -5,7 +5,7 @@ Check me out at https://saahilp.me !!!
 
 Outside of class, I'm currently:
 
-- 👨🏽‍💻 Participating in a COOP at UPS as a Web Applications and Messaging Systems intern on the Windows Web Services team
+- 👨🏽‍💻 Participated in a COOP at UPS as a Web Applications and Messaging Systems intern on the Windows Web Services team
 - 👨🏽‍💻 Interning at Oracle this summer as a Software Engineering intern on the Enetrpise Engineering and Developer Tools team
 - ☕️ Leading recitation sections as a learning assistant for CS 111 (Introduction to Computer Science)
 <!--
