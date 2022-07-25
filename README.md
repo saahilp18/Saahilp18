@@ -7,7 +7,7 @@ Outside of class, I'm currently:
 
 - 👨🏽‍💻 Participated in a COOP at UPS as a Web Applications and Messaging Systems intern on the Windows Web Services team
 - 👨🏽‍💻 Interning at Oracle this summer as a Software Engineering intern on the Enetrpise Engineering and Developer Tools team
-- ☕️ Leading recitation sections as a learning assistant for CS 111 (Introduction to Computer Science)
+- ☕️ Leading recitation sections for Rutgers as a learning assistant for CS 112 (Data Structures)
 <!--
 **Saahilp18/Saahilp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
