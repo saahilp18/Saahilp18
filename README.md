@@ -4,9 +4,8 @@ I'm Saahil Patel, a student at Rutgers University, pursuing a Bachelor's degree 
 Check me out at https://saahilp.me !!!
 
 Outside of class, I'm currently:
-
-- 👨🏽‍💻 Participated in a COOP at UPS as a Web Applications and Messaging Systems intern on the Windows Web Services team
-- 👨🏽‍💻 Interning at Oracle this summer as a Software Engineering intern on the Enetrpise Engineering and Developer Tools team
+- An Incoming Intern at Amazon and Colgate-Palmolive
+- 👨🏽‍💻 Interned at Oracle and UPS 
 - ☕️ Leading recitation sections for Rutgers as a learning assistant for CS 112 (Data Structures)
 <!--
 **Saahilp18/Saahilp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
