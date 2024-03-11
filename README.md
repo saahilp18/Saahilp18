@@ -3,5 +3,3 @@ I'm Saahil Patel, a software engineer at Datadog with a Bachelor's degree in Com
 
 Check me out at https://saahilp.me !!!
 
-**Saahilp18/Saahilp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
